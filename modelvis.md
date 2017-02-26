@@ -15,10 +15,11 @@ This talks will build up the grammar of model-vis for ML using real-life dataset
 [1] Visualise the predictions in the data space  
 [2] Visualise the errors in model fitting  
 [3] Visualise the features in the model  
-[4] Visualise with different model parameters  
-[5] Visualise with different input datasets  
-[6] Visualise the entire model space  
+[4] Visualise with different model parameters   
+[5] Visualise with different input datasets   
+[6] Visualise the entire model space   
 [7] Visualise the many models together   
+
 It will also highlight the n/p/N challenges in conducting model-vis: large observations (n), high dimensionality (p) and model explosion (N)
 
 
