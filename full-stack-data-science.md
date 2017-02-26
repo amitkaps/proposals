@@ -21,22 +21,22 @@ Does the number of technologies to understand look overwhelming? We have experie
 
 We will be using Python stack for this workshop. The focus will be on breadth and getting a data-driven product completed by the end of the workshop
 
-Data Engineering (30 min)
-1. Data Ingestion from a database 
-2. Data Exploration using pandas
+Data Engineering (30 min)  
+1. Data Ingestion from a database    
+2. Data Exploration using pandas     
 
-Machine Learning (30 min)
-3. A simple machine learning model using scikit-learn
+Machine Learning (30 min)      
+3. A simple machine learning model using scikit-learn    
 
-Dashboard(30 min)
-4. Creating dashboard using bokeh
+Dashboard(30 min)     
+4. Creating dashboard using bokeh     
 
-API (30 min)
-5. Creating RESTful API
-6. Integrating model output to DB
+API (30 min)    
+5. Creating RESTful API   
+6. Integrating model output to DB   
 
-Web Application(30 min)
-7. Creating a simple application that accomplishes this end-to-end (templates will be provided to save time.)
+Web Application(30 min)   
+7. Creating a simple application that accomplishes this end-to-end (templates will be provided to save time.)  
 
-Advanced topics (depending on time)
+Advanced topics (depending on time)   
 7. Model updation as more data comes in (for this workshop, batch only – no streaming)
