@@ -25,7 +25,7 @@ We will be using tensorflow (and keras) for the hands-on.
 We will be working on medium -sized dataset and will need a hardware with a minimum 8 GB RAM. Linux highly preferred (Though participants have had success running on Mac OS and Windows.). For the tutorial, GPU isn't required- though we will discuss how GPU impacts performance. 
 
 
-### notes
+### Notes
 
 The speakers have presented at a number of conferences.
 
