@@ -24,5 +24,4 @@ It will also highlight the n/p/N challenges in conducting model-vis: large obser
 
 
 ### Notes  
-A version of this talks was presented at Strata Hadoop New York 2016. Slides can be found here   
-[slideshare](https://www.slideshare.net/amitkaps/model-visualisation-66569635)
+A version of this talks was presented at Strata Hadoop New York 2016. Slides can be found [here](https://www.slideshare.net/amitkaps/model-visualisation-66569635)
