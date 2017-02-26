@@ -23,3 +23,7 @@ Active Learning harnesses the best of both worlds.
 This talk shows how active learning was used to provide richer engagement for the user through active learning and how that resulted in superior performance.
 
 An overview of how the ML pipeline along with the human component was setup will be discussed, along with some of the challenges faced along the way.
+
+### Notes
+
+A version of this talk was presented at Cypher 2016, Bangalore. Slides can be found [here](https://speakerdeck.com/bargava/scaling-b2b-sales-using-machine-learning-and-human-in-the-loop)
