@@ -10,8 +10,8 @@ Creating better models is a critical component to building a good data science p
 Ensemble methods aren’t new. They form the basis for some extremely powerful machine learning algorithms like random forests and gradient boosting machines. The key point about ensemble is that consensus from diverse models are more reliable than a single source. It is indeed hardly surprising that the winning models in [Kaggle](https://kaggle.com) these are ensemble models.
 
 
-The speakers discuss various strategies to build ensemble models, demonstrating how to combine model outputs from various base models (logistic regression, decision trees, random forest, GBM, neural networks, etc.) to create a stronger, better model output. Using an example package the authors created with bindings to Python([link](https://github.com/unnati-xyz/ensemble-package)), the speakers cover bagging, boosting, stacking, and blending and draw on real-life examples from the enterprise world to explore where ensemble models can consistently produce better results when compared against the best-performing single models.
-x 
+The speakers discuss various strategies to build ensemble models, demonstrating how to combine model outputs from various base models (logistic regression, decision trees, random forest, GBM, neural networks, etc.) to create a stronger, better model output. Using an example package the authors created with bindings to Python([link](https://github.com/unnati-xyz/ensemble-package)), the speakers cover bagging, boosting, stacking, and blending and draw on real-life examples from the enterprise world to explore where ensemble models can consistently produce better results when compared against the best-performing single models.  
+
 Topics include:
 - Feature engineering 
 - Model selection
