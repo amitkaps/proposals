@@ -1,6 +1,6 @@
 # Visualizing Time Series
 
-> time series: a series of values of a quantity obtained at successive times, often with equal intervals between them.
+> time series data is a series of values of a quantity obtained at successive times, often with equal intervals between them.
     
 
 Most of the data we encounter and generate in life are time series. Uncovering insights over time presents a number of challenges. Some of them are:
