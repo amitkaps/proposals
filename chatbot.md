@@ -5,7 +5,7 @@ Chat Bots are the in-thing right now. Chris Messina (inventor of hashtag) called
 
 
 ### Detailed Abstract:
-This will be an applied tutorial (more hands-on than theory). By the end of the tutorial, the attendees will have enough knowledge and confidence to build a chat bot on their own.
+This will be an applied tutorial (more hands-on than theory). By the end of the tutorial, the attendees will have enough knowledge and confidence to build a chat bot end-to-end on their own.
 
 The workshop will cover the following:
 
@@ -14,8 +14,9 @@ The workshop will cover the following:
 3. Introduction to RNN
 4. Obtaining data from twitter
 5. Training RNN to generate text
-6. Generating text using Generative Adversarial Networks (time permitting)
-7. Thoughts on how to scale the training process
+6. Deploying the model on cloud   
+7. Generating text using Generative Adversarial Networks (time permitting)
+8. Thoughts/discussions on how to scale the training process
 
 We will be using Python data stack. The installation instructions will be available in the repo:
 https://github.com/rouseguy/DeepLearningNLP_Py
