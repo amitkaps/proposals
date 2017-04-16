@@ -31,12 +31,19 @@ Machine Learning (30 min)
 Dashboard(30 min)     
 4. Creating dashboard using bokeh     
 
-API (30 min)    
+Deployment and API (30 min)    
 5. Creating RESTful API   
 6. Integrating model output to DB   
+7. Deployment on cloud
 
 Web Application(30 min)   
-7. Creating a simple application that accomplishes this end-to-end (templates will be provided to save time.)  
+8. Creating a simple application that accomplishes this end-to-end (templates will be provided to save time.)  
 
 Advanced topics (depending on time)   
-7. Model updation as more data comes in (for this workshop, batch only – no streaming)
+9. Model updation as more data comes in (for this workshop, batch only – no streaming)
+
+The repository for the workshop  is[here](https://github.com/amitkaps/full-stack-data-science)
+
+**Key takeaways**
+
+Learn how to build and deploy a machine learning application end-to-end
