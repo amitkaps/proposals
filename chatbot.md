@@ -5,6 +5,10 @@ Chat Bots are the in-thing right now. Chris Messina (inventor of hashtag) called
 
 
 ### Detailed Abstract:
+
+In this workshop, the attendees will learn an introduction to deep learning for natural language processing - by building a chat-bot application.
+
+
 This will be an applied tutorial (more hands-on than theory). By the end of the tutorial, the attendees will have enough knowledge and confidence to build a chat bot end-to-end on their own.
 
 The workshop will cover the following:
@@ -21,10 +25,16 @@ The workshop will cover the following:
 We will be using Python data stack. The installation instructions will be available in the repo:
 https://github.com/rouseguy/DeepLearningNLP_Py
 
-We will be using tensorflow (and keras) for the hands-on. 
+We will leverage cloud platform to build and deploy the bot.
+
+The workshop will be taught using `tensorflow` 
 
 We will be working on medium -sized dataset and will need a hardware with a minimum 8 GB RAM. Linux highly preferred (Though participants have had success running on Mac OS and Windows.). For the tutorial, GPU isn't required- though we will discuss how GPU impacts performance. 
 
+**Key takeaways**   
+1. Learn Deep Learning for NLP 
+2. What are chat-bots and how to build them? 
+3. Some pointers on GPU, scaling ML and deploying ML
 
 ### Notes
 
