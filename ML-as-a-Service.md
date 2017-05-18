@@ -26,28 +26,28 @@ In this workshop, one would learn how to build a seamless end-to-end data driven
 
 We will be using Python stack for this workshop. The focus will be on breadth and getting a data-driven product completed by the end of the workshop
 
-Data Engineering 
+**Data Engineering** 
 1. Data Ingestion from a database    
 2. Data Exploration using `pandas`     
 
-Machine Learning 
+**Machine Learning**  
 3. Build machine learning model using `scikit-learn`    
 
-Dashboard
+**Dashboard**   
 4. Creating dashboard using `bokeh`    
 
-Deployment and API   
+**Deployment and API**   
 5. Creating RESTful API  
 6. Integrating model output to DB   
 7. Deployment on cloud (AWS)
 
-Automate Data Science Process
+**Automate Data Science Process**   
 8. Airflow/Luigi framework to build data pipelines  
 9. Update model at a regular frequency (cron job)    
 10. Discussions on Model tradeoffs during training and prediction
 
 
-The repository for the workshop  is[here](https://github.com/amitkaps/full-stack-data-science)
+The repository for the workshop  is [here](https://github.com/amitkaps/full-stack-data-science)
 
 **Key takeaways**
 
