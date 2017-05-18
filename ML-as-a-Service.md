@@ -52,3 +52,10 @@ The repository for the workshop  is [here](https://github.com/amitkaps/full-stac
 **Key takeaways**
 
 Learn how to build and deploy a machine learning application end-to-end
+
+
+### Instructors   
+
+1. [Amit Kapoor](http://amitkaps.com/)
+2. [Anand Chitipothu](http://anandology.com/)
+3. [Bargava Subramanian](https://twitter.com/bargava)
