@@ -28,11 +28,11 @@ The talk covers the four major areas that impact the architecture design of inte
    - Optimizing for near real-time visual refreshes
    - Handling event / time based streams
 
-## Target Audience**
+## Target Audience
 
 Data Scientists, Data Analysts, Data Visualization Analysts,  Business Intelligence Designers, Product Managers
 
-**Key Takeaways**
+## Key Takeaways
 
 1. Ideas on the architecture design for making an interactive visualisation application for large data 
 2. Approaches to balance the different trade-off - rendering, computation, adaptive and responsiveness - inherent in the design.
