@@ -9,11 +9,12 @@ This leads to a situation of applications sitting inside many containers communi
 1. client-server communication
 2. server-server communication
 
-How to achieve the communication, their respective advantages and tradeoffs, is important to understand -as one embarks on architecting such a system.
+How to achieve the communication, their respective advantages and tradeoffs - is important to understand, as one embarks on architecting such a system.
 
 A typical data science project will have a lot of microservices. (Eg: microservices for various data ingestion pieces, microservices for model training, etc)
 
 This talk will give an overview of the most common methods and advantages and use cases for them, with specific focus on data science projects. 
+
 
 **Technical Level**
 Beginner
@@ -28,7 +29,7 @@ The broad outline of the talk is as follows:
 5. Client-server communication (Examples and ways to achieve them)
 6. Closing thoughts
 
-This will be more of a "how-to" talk. While the concepts are introduced, the focus will be more on how these are achieved using Python and on cloud.
+This will be more of a "how-to" talk. While the concepts are introduced, the focus will be more on how these are achieved using Python and on cloud. A significant amount of time will be on using REST, GraphQL and gRPC in Python.
 
 **Requirements**
 Some knowledge of cloud computing helps. Going through Martin Fowler's blog will definitely be helpful: https://martinfowler.com/articles/serverless.html
