@@ -5,14 +5,15 @@ Serverless architectures use third-party services and is run in short-lived cont
 1. Reduce operational costs
 2. Reduce technical debt
 
-But this typically leads to a situation of applications sitting inside many containers communicating with each other and also communicating with the front-end. In other words:
+This leads to a situation of applications sitting inside many containers communicating with each other and also communicating with the front-end/client. In other words:
 1. client-server communication
 2. server-server communication
+
+How to achieve the communication and what are the advantages and tradeoffs are important to understand, as one embarks on architecting such a system.
 
 A typical data science project will have a lot of microservices. (Eg: microservices for various data ingestion pieces, microservices for model training, etc)
 
 This talk will give an overview of the most common methods and advantages and use cases for them, with specific focus on data science projects. 
-
 
 **Technical Level**
 Beginner
