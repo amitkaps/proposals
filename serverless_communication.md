@@ -9,7 +9,7 @@ This leads to a situation of applications sitting inside many containers communi
 1. client-server communication
 2. server-server communication
 
-How to achieve the communication and what are the advantages and tradeoffs are important to understand, as one embarks on architecting such a system.
+How to achieve the communication, their respective advantages and tradeoffs, is important to understand -as one embarks on architecting such a system.
 
 A typical data science project will have a lot of microservices. (Eg: microservices for various data ingestion pieces, microservices for model training, etc)
 
