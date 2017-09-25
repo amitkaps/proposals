@@ -1,4 +1,4 @@
-# Architectural Considerations for Interactive Visualization
+# Architectural Design for Interactive Visualization
 
 ## Summary
 
