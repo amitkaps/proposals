@@ -11,7 +11,9 @@ If you've shopped on e-commerce platforms like Amazon or Flipkart, you would've 
 *"People who viewed this product also viewed..."*  
 *"Products similar to this one..."*
 
-Netflix threw up a major data science challenge last decade: a million dollars to anyone who can improve their recommendation system by 10%. 
+These are the results from recommendation systems.
+
+Netflix threw up a major data science challenge last decade: a million dollars to anyone who can improve their recommendation system by 10%. A recent [estimate](http://www.businessinsider.com/netflix-recommendation-engine-worth-1-billion-per-year-2016-6) pegs the value of Netflix's recommendation system to be worth $ 1 Billion.
 
 In this full-day workshop, we will walk you through the various types of recommendation system. By the end of the workshop, you will have enough knowledge to build one for your problem.
 
@@ -62,6 +64,6 @@ The workshop is approximately 50% theory and 50% hands-on.
 
 **Software requirements**
 
-We will be doing this on cloud. Laptop with a browser is all you need for the workshop
+We will be doing this on cloud. Laptop with a browser is all you need for the workshop.
 
 
