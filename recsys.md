@@ -51,3 +51,17 @@ In this full-day workshop, we will walk you through the various types of recomme
     
 2. Closing thoughts and next steps
 
+
+**Pre-requisites**
+
+The workshop is approximately 50% theory and 50% hands-on. 
+
+1. Programming knowledge and basics of Python is necessary to follow the hands-on part. 
+2. No machine learning knowledge is assumed.
+3. Basics of Linear Algebra will be good-to-have.
+
+**Software requirements**
+
+We will be doing this on cloud. Laptop with a browser is all you need for the workshop
+
+
