@@ -1,4 +1,4 @@
-# Interactive Data Visualisation using Visdown
+# Interactive Visualisation for Data Science
 
 ### Overview
 
@@ -43,4 +43,4 @@ But what if you could write an interactive data-vis in the same easy way that yo
 - Recap of the overall workshop
 
 ### Notes
-A version of this workshop will be presented at Strata London 2017
+A version of this workshop will be presented at Strata London 2017 and Strata Singapore 2017
