@@ -4,6 +4,8 @@
 
 Crafting interactive data-vis for the web is hard. Either you are stuck using proprietary tools like Tableau or you need to become proficient in javascript libraries like d3.js. But what if creating them was as easy as writing text. This workshop teaches the grammar of interactive graphics and uses a simple declarative markdown based tool - Visdown - to help you build them with ease and speed.
 
+Visualization leverages the power of visual abstraction that humans are good at. One of the challenges in traditional data visualization is that they are static and have bounds on limited physical/pixel space. Interaction allows us to move beyond this limitation by adding the layers of interactions. This workshop helps you learn the art and science of crafting interactive data visualization.
+
 ### Detailed Abstract
 
 “A picture is worth a thousand words. An interface is worth a thousand pictures.” – Ben Shneiderman
