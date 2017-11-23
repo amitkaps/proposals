@@ -14,7 +14,7 @@ This talk is designed in the "Show, not Tell" format. We will focus on showcasin
 
 3. **Rapid Prototyping**: Training of DL models is now possible in the browser itself. We showcase a *rapid prototyping image classification* example which allows the user to play with transfer learning to build a model specific for a user-generated image input.  
 
-We will end the talk on how we see the ecosystems of tools for DL in the browser emerging and making it easy for everyone to start doing this. One key trend, is the emergence of easy authoring tools like [visdown](http://visdown.com/), [Idyll](http://idyll-lang.org/editor/) and eventually [Observable](https://observablehq.com/) to do this on the browser.
+We will end the talk on how we see the ecosystems of tools for DL in the browser emerging and making it easy for everyone to start doing this.
 
 For those more curious about how all these demos will actually happen, we will be leveraging the following newer libraries (and some traditional ones like d3.js) in javascript.
 
