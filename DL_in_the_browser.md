@@ -10,9 +10,9 @@ This talk is designed in the "Show, not Tell" format. We will focus on showcasin
 
 1. **Explorable Explanations**: Explaining the DL model and allowing the users to build intuition on the model helps in generating insight. We showcase an *explorable explanation for loan default DL model*, which allows the user to explore the feature space and threshold boundaries using interactive visualisations to drive decision making.
 
-2. **Model Inference**: Inference is the most common use case and the browser allows you to 'bring your DL model to the data'. We showcase an *comments sentiment* application in the browser, which can identify and warn about the toxicity of the comments as you type in a text box.
+2. **Model Inference**: Inference is the most common use case and the browser allows you to 'bring your DL model to the data'. It also allows you test how the model works, when executed on the edge.  We showcase an *comments sentiment* application in the browser, which can identify and warn about the toxicity of the comments as you type in a text box.
 
-3. **Rapid Prototyping**: Training of DL models is now possible in the browser itself. We showcase a *rapid prototyping image classification* example which allows the user to play with transfer learning to build a model specific for a user-generated image input.  
+3. **Rapid Prototyping**: Training of DL models is now possible in the browser itself, if done smartly. We showcase a *rapid prototyping image classification* example which allows the user to play with transfer learning to build a model specific for a user-generated image input.  
 
 We will end the talk on how we see the ecosystems of tools for DL in the browser emerging and making it easy for everyone to start doing this.
 
