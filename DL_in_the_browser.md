@@ -6,7 +6,7 @@ We showcase three live-demos of doing deep learning (DL) in the browser - for bu
 ## Description
 The browser is the most common end-point consumption of Deep learning models. It is also the most ubiquitous platform for programming available. The maturity of the client-side JavaScript ecosystem across the deep learning process e.g. dataframe support (arrow.js), WebGl accelerated learning frameworks (deeplearn.js), declarative interactive visualisation (vega-lite.js), have made it easy to start playing with Deep Learning in the browser.
 
-This talk is designed in the "Show, not Tell" format. We will focus on showcasing three particular use case (live-demos) where deep learning models can be used for explanations, inference and training on the browser directly. The demos will also show the application from three different types of data types - tabular, text and image.
+This talk is designed in the "Show, not Tell" format. We will focus on showcasing three particular use case (live-demos) where deep learning models can be used for explanations, inference and training on the browser directly. The demos will also show the application from three different types of data - tabular, text and image.
 
 1. **Explorable Explanations**: Explaining the DL model and allowing the users to build intuition on the model helps in generating insight. We showcase an *explorable explanation for loan default DL model*, which allows the user to explore the feature space and threshold boundaries using interactive visualisations to drive decision making.
 
@@ -22,6 +22,6 @@ For those more curious about how all these demos will actually happen, we will b
 - [Facets](https://pair-code.github.io/facets/) for exploratory data analysis.
 - [Ml.js](https://github.com/mljs/) for traditional machine learning model training and inference.
 - [Deeplearn.js](https://deeplearnjs.org/) for deep learning model training and inference.
-- [Vega and Vega-lite](https://vega.github.io/) for interactive dashboard
+- [Vega and Vega-lite](https://vega.github.io/) for interactive dashboards.
 
 The working demos will be available on the web and open-source code on Github. 
