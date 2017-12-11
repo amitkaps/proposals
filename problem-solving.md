@@ -1,0 +1,5 @@
+# Problem Solving for Data Science
+
+The ever increasing computational capacity has enabled us to acquire, process and analyse larger data-sets and information. We increasingly want to take a data-driven lens to solve business problems. But business problems are inherently ‘wicked in nature’ - with multiple stakeholder, different problem definition, different solutions interdependence, constraints, amplifying loops etc. 
+
+There is no one trick to solve them. What is required is learning a structured approach to problem solving that can be applied to large set of these problems. One possible way is to use a Hypotheses Driven Approach - problems definition, scoping, issue identification and hypothesis generation - as a starting point for this. In this workshop, you will learn how to apply this hypotheses driven approach through seven pragmatic steps - Frame, Acquire, Refine, Transform, Explore, Model, and Insight - to any business problem. The focus will be to learn the principles through an applied case study and using an iterative and agile methodology.
