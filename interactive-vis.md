@@ -1,9 +1,9 @@
-**Title : Building Interactive Dashboards**
+# Building Interactive Dashboards
 
-**Overview**   
+## Overview 
 Crafting interactive data visualizations for the web is hard—you're stuck using proprietary tools or must become proficient in JavaScript libraries like D3. But what if creating a visualization was as easy as writing code in Python? This workshop outlines the grammar of interactive graphics and explain how to use Python libraries to build them with ease.
 
-**Detailed Abstract**   
+## Abstract 
 
 *“A picture is worth a thousand words. An interface is worth a thousand pictures.”* —Ben Shneiderman   
 
@@ -34,7 +34,6 @@ This workshop explains how to use Python libraries to build them with ease. You 
 **Creating an interactive data visualization**    
 
 * Building a full interactive data dashboard 
-
 
 **Additional pointers and recap**     
 

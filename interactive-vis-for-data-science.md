@@ -1,11 +1,11 @@
 # Topic: Interactive Visualisation for Data Science
 
-### Abstract
+## Abstract
 
 Visualization leverages the power of visual abstraction that humans are good at. One of the challenges in traditional data visualization is that they are static and have bounds on limited physical/pixel space. Interaction allows us to move beyond this limitation by adding the layers of interactions. This workshop helps you learn the art and science of crafting interactive data visualization.
 
 
-### Detailed Description
+## Detailed Description
 
 _“A picture is worth a thousand words. An interface is worth a thousand pictures.”_ – Ben Shneiderman
 

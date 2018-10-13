@@ -42,7 +42,7 @@ Web Application(30 min)
 Advanced topics (depending on time)   
 9. Model updation as more data comes in (for this workshop, batch only – no streaming)
 
-The repository for the workshop  is[here](https://github.com/amitkaps/full-stack-data-science)
+The repository for the workshop is[here](https://github.com/amitkaps/full-stack-data-science)
 
 **Key takeaways**
 

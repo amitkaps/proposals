@@ -1,11 +1,11 @@
-# Machine Learning and the Power of Ensembles
+# The Power of Ensembles
 
-### Overview
+## Overview
 
 Creating better models is a critical component to building a good data science product. It is relatively easy to build a first-cut machine-learning model, but what does it take to build a reasonably good or state-of-the-art model? Ensemble models—which help exploit the power of computing in searching the solution space. The speakers discuss various strategies to build ensemble models.
 
 
-### Detailed Abstract
+## Detailed Abstract
 
 Ensemble methods aren’t new. They form the basis for some extremely powerful machine learning algorithms like random forests and gradient boosting machines. The key point about ensemble is that consensus from diverse models are more reliable than a single source. It is indeed hardly surprising that the winning models in [Kaggle](https://kaggle.com) these are ensemble models.
 

@@ -1,8 +1,10 @@
+# Deep Learning 101
+
 > “All knowledge is connected to all other knowledge. The fun is in making the connections.” — Arthur Aufderheide
 
 The objective for the Deep Learning 101 (introduction to deep learning) is to ensure that the participants have enough theory and practical concepts of building a deep learning solution.Post the session, all the participants would be familiar with many of the  key concepts and would be able to build simple deep learning models.
 
-### Key Concepts
+## Key Concepts
 
 **Theory**: DL Motivation, Back-propagation, Activation
 **Paradigms**: Supervised
@@ -11,11 +13,11 @@ The objective for the Deep Learning 101 (introduction to deep learning) is to en
 **Process**: Setup, Encoding, Training, Serving
 **Tools**: python-data-stack, keras
 
-### Approach
+## Approach
 
 This would be a half-day instructor-led hands-on workshop to learn and implement an end-to-end deep learning model for classification.
 
-### Session Breakdown
+## Session Breakdown
 
 **Deep Learning (DL) Theory** 
 

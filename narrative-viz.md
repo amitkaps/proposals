@@ -7,5 +7,3 @@ An important part of a data scientist/data analyst/data journalist's role is to 
 Narrative visualisation is a way to present analyses, thought processes and insights - all in one document. 
 
 This talk introduces narrative visualization and provides pointers on tools and best practices on how to think and design narrative visualisations.
-
-Speaker Profile

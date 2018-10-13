@@ -1,6 +1,6 @@
 # Machine Learning as a Service
 
-### Overview
+## Overview
 
 > You code, you test, you ship and you maintain
 
@@ -10,7 +10,7 @@ A lot of materials are available on how to do machine learning (including the au
 
 The attendees would learn how to build a seamless end-to-end data driven application - data ingestion, exploration, machine learning, RESTful API, dashboard, and making it repeatable - to solve a business prediction problem and present it to their clients.
 
-### Detailed Abstract
+## Abstract
 
 > "Jack of all trades, master of none, though oft times better than master of one"
 

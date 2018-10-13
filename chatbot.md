@@ -1,10 +1,10 @@
-# Let's build a chatbot ! 
+# Let's build a chatbot! 
 
-### Overview:
+## Overview:
 Chat Bots are the in-thing right now. Chris Messina (inventor of hashtag) called 2016 the year of conversational commerce. We could integrate bots with a host of applications - popular examples being Slack, Telegram and Facebook Messenger. In this tutorial, you will learn how to build a deep learning powered chat bot. Pointers to scaling it up will also be discussed.
 
 
-### Detailed Abstract:
+## Detailed Abstract:
 
 In this workshop, the attendees will learn an introduction to deep learning for natural language processing - by building a chat-bot application.
 

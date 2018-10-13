@@ -1,10 +1,10 @@
 # Improving trainee performance in online coaching using Active Learning
 
-### Overview 
+## Overview 
 
 We have seen tremendous attrition or slacking off after initial engagement with smart(ML-driven) online coaching platforms/apps - be it for education or health. In this talk, you will understand how to leverage signals from the users real-time to design a human-in-the-loop ML system for online coaching. From our experience, these systems resulted in superior engagement and improved performance.
 
-### Abstract
+## Abstract
 
 We have seen a lot of people drop out or slack off after the initial engagement with online coaching platforms/apps – be in health-based training or educational training. This is inspite of the applications having a smart recommendation system in place.
 
