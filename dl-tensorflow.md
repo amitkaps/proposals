@@ -8,7 +8,7 @@ The browser is the most common end-point consumption of Deep learning models. It
 
 This hack session is designed to learn how to do deep learning in the browser. We will focus on exploring three particular use cases where deep learning models can be used for inference, training and explanation in the browser directly. 
 
-1. **Introduction** (10 mins): We will start with a quick introduction to javascript libraries including [tensorflow.js](https://js.tensorflow.org) for the session. We will introduce and use a browser based interactive notebook - [observablehq.com](https://observablehq.com) to 
+1. **Introduction** (10 mins): We will start with a quick introduction to javascript libraries including [tensorflow.js](https://js.tensorflow.org) for the session. We will introduce and use a browser based interactive notebook - [observablehq.com](https://observablehq.com) to run all our code.
 
 2. **Model Inference** (10 mins): Inference is the most common use case and the browser allows you to 'bring your DL model to the data'. It also allows you test how the model works, when executed on the edge. We start with a simple application to load a pretrained model for image classification and running on the browser. We will understand some browser specific optimization - like weight quantization needed to manage models on the client side. 
 
