@@ -4,7 +4,7 @@
 We will build three live-demos of doing deep learning (DL) in the browser - for building model inference applications, for rapid prototyping and training ML model and for building explorable explanations to aid insight - using tensorflow.js and other emerging client-side Javascript libraries.
 
 ## Abstract
-The browser is the most common end-point consumption of Deep learning models. It is also the most ubiquitous platform for programming available. The maturity of the client-side JavaScript ecosystem across the deep learning process e.g. dataframe support (arrow.js), WebGl accelerated learning frameworks (deeplearn.js), declarative interactive visualisation (vega-lite.js), have made it easy to start playing with Deep Learning in the browser.
+The browser is the most common end-point consumption of Deep learning models. It is also the most ubiquitous platform for programming available. The maturity of the client-side JavaScript ecosystem across the deep learning process e.g. dataframe support (arrow.js), WebGl accelerated learning frameworks (tensorflow.js), declarative interactive visualisation (vega-lite.js), have made it easy to start playing with Deep Learning in the browser.
 
 This hack session is designed to learn how to do deep learning in the browser. We will focus on exploring three particular use cases where deep learning models can be used for inference, training and explanation in the browser directly. 
 
