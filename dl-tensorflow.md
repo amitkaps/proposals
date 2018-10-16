@@ -10,7 +10,7 @@ This hack session is designed to learn how to do deep learning in the browser. W
 
 1. **Introduction** (10 mins): We will start with a quick introduction to javascript libraries including [tensorflow.js](https://js.tensorflow.org) for the session. We will introduce and use a browser based interactive notebook - [observablehq.com](https://observablehq.com) to run all our code.
 
-2. **Model Inference** (10 mins): Inference is the most common use case and the browser allows you to 'bring your DL model to the data'. It also allows you test how the model works, when executed on the edge. We start with a simple application to load a pretrained model for image classification and running on the browser. We will understand some browser specific optimization - like weight quantization needed to manage models on the client side. 
+2. **Model Inference** (10 mins): Inference is the most common use case and the browser allows you to 'bring your DL model to the data'. It also allows you test how the model works, when executed on the edge. We start with a simple application to load a pretrained model for image classification and run it on the browser. We will understand some browser specific optimization - like weight quantization needed to manage models on the client side. 
 
 3. **Rapid Prototyping** (15 mins): Training of DL models is now possible in the browser itself, if done smartly. We will build a *rapid prototyping image classification* example which allows the user to play with transfer learning to build a model specific for a user-generated image input. We will understand some nuances on data loading, preferred layers and memory management required for browser training.
 
