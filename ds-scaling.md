@@ -1,6 +1,6 @@
 #  Building ML & DL Capabilities
 
-> *âAll knowledge is connected to all other knowledge. The fun is in making the connections.â â Arthur Aufderheide*
+> *"All knowledge is connected to all other knowledge. The fun is in making the connections." - Arthur Aufderheide*
 
 
 Building and scaling machine learning capability is an imperative for enterprises and startups aiming to adopt a data-driven lens for their business. However, crafting a successful data-science strategy is not straightforward and requires answering the following questions:
