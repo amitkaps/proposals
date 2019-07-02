@@ -37,7 +37,6 @@ The following are the key topics to be covered for buiding **Process & Systems**
 - Assess, source and collect data for:
   - Relevance & predictive power
   - Fairness, Privacy and Security
-
 - Schemas and data formats
 - Dynamic Vs Static Features
 - Create features 
