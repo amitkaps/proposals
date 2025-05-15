@@ -16,31 +16,31 @@ But what if you could write an interactive data-vis in the same easy way that yo
 
 ### Workshop Content
 
-####1: Grammar of Interactive Graphics (20 mins)
+#### 1: Grammar of Interactive Graphics (20 mins)
 - Learn the four layers of abstraction 
 – Data Layer: data types and transformations
 – Visual Layer: variable mapping, marks, channels, scales, coordinate system, layouts
 – Annotation Layer: titles, axes, legends, grids, references, text
 – Interaction Layer: – navigation, transition, selection, highlighting, filtering, brushing & linking, sorting, animation
 
-####2: Start using Visdown (10 mins)
+#### 2: Start using Visdown (10 mins)
 - Understand the tools landscape: Charting-based, Grammar-based and Canvas-based
 - Intro to declarative markdown based visualisation tool – [visdown](http://visdown.amitkaps.com)
 
-####3: Create Static Vis (20 mins)
+#### 3: Create Static Vis (20 mins)
 - Visualise a multi-dimensional dataset
 - Play with marks, channels, color, scales, and coordinates 
 - Add labeling and annotation
 
-####4: Add Interaction layer (40 mins)
+#### 4: Add Interaction layer (40 mins)
 - Add interactive data-model manipulation 
 - Explore common interaction patterns: select, explore, reconfigure, encode, filter, drill-down
 
-####5: Create an Interactive Data-Vis (45 mins)
+#### 5: Create an Interactive Data-Vis (45 mins)
 - Build a full interactive data dashboard using Visdown
 - Step-by-step hands-on session using an interesting dataset
 
-####6: Additional Pointers and Recap (15 mins)
+#### 6: Additional Pointers and Recap (15 mins)
 - Additional concepts in interaction: scrolling, animation, story points
 - Recap of the overall workshop
 
